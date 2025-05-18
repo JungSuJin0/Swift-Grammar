@@ -1,8 +1,11 @@
-# Swift-Grammar
-개발하는 정대리
-https://www.youtube.com/@dev_jeongdaeri
+## 📺 개발하는 정대리
 
-#### 스위프트 기초 문법
+스위프트 기초 문법: https://www.youtube.com/@dev_jeongdaeri
+
+<img src="https://github.com/user-attachments/assets/f6d0ac29-0d73-461a-a3ca-2faedec97901" width="280"/>
+
+
+## 📖 목차
 - 1일차: 조건문
 - 2일차: foreach 반복문
 - 3일차: enum 케이스 나누기
@@ -18,27 +21,68 @@ https://www.youtube.com/@dev_jeongdaeri
 - 13일차: 상속
 - 14일차: 딕셔너리
 - 15일차: 파이널 클래스
-- 16일차: 매개변수
+- 16일차: 매개변수 inout
 - 17일차: 에러 error
 - 18일차: 스트럭트 mutating
-- 19일차: set
+- 19일차: Set
 - 20일차: 스트럭트 메소드
 - 21일차: 프로토콜
 - 22일차: 프로토콜 상속
 - 23일차: 프로토콜 확장
-- 24일차: 프로토콜 associated Type
+- 24일차: 프로토콜 associatedType
 - 25일차: 별칭 typealias
-- 26일차: lazy 키워
-- 27일차: 
-- 28일차:  
-- 29일차: 
-- 30일차:
-- 31일차:
-- 32일차:
-- 33일차:
-- 34일차:
-- 35일차:
-- 36일차:
-- 37일차:
-- 38일차:
-- 39일차:
+- 26일차: lazy 키워드
+- 27일차: 고차함수 Higher Order Functions
+- 28일차: 고차함수 sort, sorted 정렬
+- 29일차: private(set)
+- 30일차: foreach enumerated
+- 31일차: map
+- 32일차: compactMap
+- 33일차: flatMap
+- 34일차: class func vs static func
+- 35일차: Dictionary grouping
+- 36일차: Dependency Injection
+- 37일차: getter setter
+- 38일차: 코더블 Codable
+- 39일차: 멀티 트레일링 클로저
+- 40일차: convenience init - 컨비니언스 생성자
+- 41일차: 디자인 패턴 빌더패턴
+- 42일차: 콜렉션 합치기
+- 43일차: reduce
+- 44일차: 컬렉션 간 변형
+- 45일차: 옵셔널 체이닝
+- 46일차: Equatable
+- 47일차: Zip
+- 48일차: static func, final class func
+- 49일차: Range
+- 50일차: open
+- 51일차: struct 기본 생성자
+- 52일차: singleton 디자인 패턴
+- 53일차: toggle
+- 54일차: 프로토콜 조건 적용
+- 55일차: 자료형 체크
+- 56일차: 중첩 타입 Nested Type
+- 57일차: 프로토콜 옵셔널 Optional Protocol
+- 58일차: Set isSubset, isSuperset
+- 59일차: stride
+- 60일차: Dictionary 반복
+- 61일차: Set union
+- 62일차: Set intersection
+- 63일차: Set symmetricDifference
+- 64일차: Tuple
+- 65일차: 메소드 반환 Tuple
+- 66일차: Any
+- 67일차: 패턴 매칭 연산자 ~=
+- 68일차: 커스텀 패턴 매칭 연산자 ~=
+- 69일차: while 반복
+- 70일차: repeat while 반복
+- 71일차: get computed property
+- 72일차: 스위치에서 tuple 사용
+- 73일차: Enum CaseIterable
+- 74일차: protocol 응용 uiview nib
+- 75일차: 값을 동반한 enum
+- 76일차: case let 옵셔널 패턴
+- 77일차: Any 타입의 switch문 체크
+- 78일차: defer
+- 79일차: allSatisfy
+- 80일차: Enum rawValue
