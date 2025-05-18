@@ -1,11 +1,11 @@
-## 📺 개발하는 정대리: https://www.youtube.com/@dev_jeongdaeri
+## 📺 Swift 문법 80일 완성 강의
 
-강의 기반으로 예제 연습한 공간입니다.
+[개발하는 정대리 - Swift 기초 문법 유튜브 강의](https://www.youtube.com/playlist?list=PLgOlaPUIbynoqbQw_erl3L2w7vfOTCtFD) 기반으로 예제 연습한 공간입니다.
 
 <img src="https://github.com/user-attachments/assets/f6d0ac29-0d73-461a-a3ca-2faedec97901" width="280"/>
 
 
-## 📖 목차
+## 🗂️ 목차
 - 1일차: 조건문
 - 2일차: foreach 반복문
 - 3일차: enum 케이스 나누기
