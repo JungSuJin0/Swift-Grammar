@@ -2,6 +2,8 @@
 
 스위프트 기초 문법: https://www.youtube.com/@dev_jeongdaeri
 
+강의 기반으로 예제 연습한 공간입니다.
+
 <img src="https://github.com/user-attachments/assets/f6d0ac29-0d73-461a-a3ca-2faedec97901" width="280"/>
 
 
