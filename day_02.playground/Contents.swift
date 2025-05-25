@@ -1,6 +1,6 @@
 import UIKit
 //foreach 반복문
-//
+
 //타입 추론: var myArray = [0, 1, 2, 3, 4, 5]
 //빈 배열을 생성할 때, 타입은 꼭 명시: var myArray: [Int] = []
 var myArray: [Int] = [0,1,2,3,4,5,6,7,8,9,10]
