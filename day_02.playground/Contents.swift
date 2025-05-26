@@ -1,11 +1,15 @@
 import UIKit
 //foreach 반복문
 
-//타입 추론: var myArray = [0, 1, 2, 3, 4, 5]
-//빈 배열을 생성할 때, 타입은 꼭 명시: var myArray: [Int] = []
+
+//빈 배열을 생성할 때는 타입 꼭 명시!
+//var myArray: [Int] = []
+
+//타입생략이 가능
+//var myArray = [0, 1, 2, 3, 4, 5]
 var myArray: [Int] = [0,1,2,3,4,5,6,7,8,9,10]
 
-//myArray가 가지고 있는 갯수만큼 반복해서 item이라는 이름(변수)에 담아 처리
+//myArray 배열에 들어있는 모든 요소를 하나씩 꺼내서 item이라는 변수에 담아 반복 실행
 for item in myArray {
     print("item: \(item)")
 }
