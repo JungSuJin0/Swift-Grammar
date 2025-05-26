@@ -19,8 +19,8 @@ struct Friend {
 }
 
 //var mySomeArray: MyArray<Int> = MyArray<Int>([1, 2, 3])
-var mySomeArray = MyArray([1,2,3])
-print("mySomeArray : \(mySomeArray)")
+var myIntArray = MyArray([1,2,3])
+print("myIntArray : \(myIntArray)")
 
 var myStringArray = MyArray(["가","나","다"])
 print("myStringArray : \(myStringArray)")
