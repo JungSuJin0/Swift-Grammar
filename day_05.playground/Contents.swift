@@ -1,4 +1,6 @@
 import UIKit
+//Unwrap 옵셔널변수
+
 
 //옵셔널이란?
 //값이 있을 수도 있고 없을 수도 있는 변수 -> ? 표시
@@ -16,7 +18,7 @@ print("-----------------------")
 
 //방법 두 가지: if let, guard let
 //옵셔널 언래핑(if let)
-//someVariable을 다른 변수에 담으면 옵셔널(감싸진 상태)에서 벗겨져서 실제 값을 안전하게 사용할 수 있게 됩
+//someVariable을 다른 변수에 담으면 옵셔널(감싸진 상태)에서 벗겨져서 실제 값을 안전하게 사용할 수 있게 됨
 if let otherVariable = someVariable {
     print("otherVariable: \(otherVariable)")
 } else {
