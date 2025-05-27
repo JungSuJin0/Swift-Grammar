@@ -1,4 +1,5 @@
 import UIKit
+//struct vs class
 
 
 print("======== struct =========")
@@ -25,10 +26,10 @@ class Username {
 
 var aa = Username(name: "수진")
 var bb = aa
-bb.name = "지우"
+bb.name = "진수"
 
-print(aa.name)
-print(bb.name)
+print(aa.name) //진수
+print(bb.name) //진수
 
 
 //기본값이 없으면 init()을 생성해 줘야 함
