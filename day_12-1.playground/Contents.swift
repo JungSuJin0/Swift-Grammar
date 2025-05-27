@@ -1,5 +1,5 @@
 import UIKit
-
+//class vs struct
 
 print("======== struct =========")
 struct User {
